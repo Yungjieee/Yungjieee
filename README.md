@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yungjie</h1>
+<h1 align="center"> Welcome to Yungjie's Github Profile 👋</h1>
 <h3 align="center">Student from UUM</h3>
 
 - 🌱 I’m currently learning **Computer Science**
